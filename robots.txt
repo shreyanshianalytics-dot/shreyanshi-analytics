@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-# Add a Sitemap URL here once the live domain is confirmed.
+Sitemap: https://shreyanshi-analytics.vercel.app/sitemap.xml
