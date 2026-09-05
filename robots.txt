@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Add a Sitemap URL here once the live domain is confirmed.
